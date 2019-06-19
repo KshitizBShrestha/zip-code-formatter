@@ -1,4 +1,4 @@
-#ZipCode Fromatter
+# ZipCode Fromatter
 
 * Save the project to local computer.
 * Import the project as maven existing project to eclipse or spring tool suite. 
